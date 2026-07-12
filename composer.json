@@ -1,0 +1,9 @@
+{
+    "name": "test/vuln-test",
+    "require": {
+        "symfony/http-foundation": "4.4.0",
+        "monolog/monolog": "1.25.0",
+        "guzzlehttp/guzzle": "6.3.0",
+        "laravel/framework": "8.0.0"
+    }
+}
